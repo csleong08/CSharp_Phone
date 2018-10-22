@@ -1,0 +1,10 @@
+/Users/csleong/Desktop/Coding Dojo/csharp/Phone/obj/Debug/netcoreapp2.0/Phone.csproj.CoreCompileInputs.cache
+/Users/csleong/Desktop/Coding Dojo/csharp/Phone/obj/Debug/netcoreapp2.0/Phone.AssemblyInfoInputs.cache
+/Users/csleong/Desktop/Coding Dojo/csharp/Phone/obj/Debug/netcoreapp2.0/Phone.AssemblyInfo.cs
+/Users/csleong/Desktop/Coding Dojo/csharp/Phone/bin/Debug/netcoreapp2.0/Phone.deps.json
+/Users/csleong/Desktop/Coding Dojo/csharp/Phone/bin/Debug/netcoreapp2.0/Phone.runtimeconfig.json
+/Users/csleong/Desktop/Coding Dojo/csharp/Phone/bin/Debug/netcoreapp2.0/Phone.runtimeconfig.dev.json
+/Users/csleong/Desktop/Coding Dojo/csharp/Phone/bin/Debug/netcoreapp2.0/Phone.dll
+/Users/csleong/Desktop/Coding Dojo/csharp/Phone/bin/Debug/netcoreapp2.0/Phone.pdb
+/Users/csleong/Desktop/Coding Dojo/csharp/Phone/obj/Debug/netcoreapp2.0/Phone.dll
+/Users/csleong/Desktop/Coding Dojo/csharp/Phone/obj/Debug/netcoreapp2.0/Phone.pdb

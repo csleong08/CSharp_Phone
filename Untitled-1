@@ -1,0 +1,9 @@
+1. Identify slide with vid
+2. cmd + shift + c (to enter Inspect Elements)
+3. click on video to find its code. 
+    a. right-click on div --> Edit as HTML.
+    b. if it's an empty div, the video is probably stored and hosted on a separate server. 
+4. Within Inspect Elements, cmd + F to search keywords (e.g. 720p, 1080p)
+5. Find the script that looks like the direct vid link.
+6. Find and copy the direct link to the web browser.
+7. Find download button and download. 
